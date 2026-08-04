@@ -1,0 +1,24 @@
+data/data_gen/checkpoints
+data/data_gen/48hr_averages
+output/data/48hr_averages
+notebooks/cache
+open_smoothed.pkl
+curfew_smoothed.pkl
+open_smoothed_2month.pkl
+open_smoothed_cleaned.pkl
+curfew_smoothed_cleaned.pkl
+opten_ceginfo_ar.pkl
+opten_ceginfo_ar_teaor.pkl
+population_density_all_hours.pkl
+open_work_hour_bubble.svg
+
+# Python housekeeping
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+
+.DS_Store
+.vscode/settings.json
