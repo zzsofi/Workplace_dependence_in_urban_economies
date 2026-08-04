@@ -9,6 +9,7 @@ open_smoothed_cleaned.pkl
 curfew_smoothed_cleaned.pkl
 opten_ceginfo_ar.pkl
 opten_ceginfo_ar_teaor.pkl
+opten_ceginfo_ar_teaor_large.pkl
 population_density_all_hours.pkl
 open_work_hour_bubble.svg
 
