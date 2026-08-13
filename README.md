@@ -1,6 +1,6 @@
 # **Workplace dependence in urban economies**
 
-This repository contains data and code to reproduce the results and visualizations of the following preprint:
+This repository contains data and code to reproduce the results and visualizations of the following preprint: https://arxiv.org/pdf/2608.07588
 
 ## *Abstract*
 Remote work has fundamentally reshaped urban economic life, 
